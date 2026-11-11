@@ -9,4 +9,5 @@ Available in 39 languages.
 - Website: https://filesokay.com/en
 - X: https://x.com/filesokay
 - Pinterest: https://www.pinterest.com/filesokay/
+- Discussions: https://github.com/filesokay/.github/discussions
 - Contact: contact@filesokay.com
